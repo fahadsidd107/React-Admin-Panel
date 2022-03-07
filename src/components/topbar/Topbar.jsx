@@ -1,6 +1,7 @@
 import React from 'react'
 import './Topbar.css'
 import { NotificationsNone,Language,Settings } from '@material-ui/icons';
+
 export default function Topbar() {
   return (
     <div className='topbar'>
@@ -22,7 +23,7 @@ Fahad
 <div className='topIconContainer'>
 <Settings/>
 </div>
-<img src="" className='topAvatar'/>
+<img src='https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4' className='topAvatar'/>
 </div>
       </div>
     </div>
