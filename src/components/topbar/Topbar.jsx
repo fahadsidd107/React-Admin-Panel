@@ -21,8 +21,8 @@ Fahad
 </div>
 <div className='topIconContainer'>
 <Settings/>
-<span className='topIconBadge'>2</span>
 </div>
+<img src="" className='topAvatar'/>
 </div>
       </div>
     </div>

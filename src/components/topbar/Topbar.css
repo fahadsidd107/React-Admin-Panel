@@ -24,13 +24,16 @@
 }
 .topIconContainer{
     position: relative;
+    cursor: pointer;
+    margin-right: 10px;
+    color: #555;
 }
 .topIconBadge{
     width: 15px;
     height: 15px;
     position: absolute;
     top: -5px;
-    right: 5px;
+    right: 0px;
     background-color: red;
     color: aliceblue;
     border-radius: 50%;
