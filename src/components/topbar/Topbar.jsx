@@ -4,7 +4,11 @@ export default function Topbar() {
   return (
     <div className='topbar'>
       <div className='topbarWrapper'>
-<div className='topLeft'>left</div>
+<div className='topLeft'>
+<div className='logo'>
+Fahad
+</div>
+</div>
 <div className='topRight'>right</div>
       </div>
     </div>
