@@ -4,3 +4,10 @@
     height: 50px;
 
 }
+.topbarWrapper{
+    height: 100%;
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
