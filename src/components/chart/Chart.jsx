@@ -52,7 +52,7 @@ function Chart() {
     <div className='chart'>
     <h3 className='chartTitle'>Sales Analytics</h3>
     <ResponsiveContainer width='100%' aspect={4 / 1}>
-    Fahad
+
     </ResponsiveContainer>
     </div>
   )
