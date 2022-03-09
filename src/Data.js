@@ -68,7 +68,7 @@ export const userAndSalesData = [
     {
       name: "Dec",
       sales: 1890,
-      users: 4800,
+      users: 4850,
     },
   
   ];
