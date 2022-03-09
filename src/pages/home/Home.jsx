@@ -1,9 +1,14 @@
 import React from 'react'
+import Chart from '../../components/chart/Chart'
+import FeaturedInfo from '../../components/featuredInfo/FeaturedInfo'
 import './Home.css'
 
 function Home() {
   return (
-    <div className='home'>Home</div>
+    <div className='home'>
+    <FeaturedInfo/>
+    <Chart/>
+    </div>
   )
 }
 
