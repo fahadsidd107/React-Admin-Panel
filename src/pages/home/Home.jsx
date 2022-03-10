@@ -8,6 +8,7 @@ function Home() {
     <div className='home'>
     <FeaturedInfo/>
     <Chart title="Sales and Users Analytics" data={ userAndSalesData } userDataKey="users" salesDataKey='sales' grid/>
+    <div className='homeWidgets'></div>
     </div>
   )
 }
