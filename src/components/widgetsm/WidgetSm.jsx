@@ -23,12 +23,12 @@ function WidgetSm({ data, uname, utitle }) {
         />
         <ListItem
           name="Khubaib Zuberi"
-          title="SE"
+          title="Graphic Designer"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
           name="Shahzaib Ansari"
-          title="SE"
+          title="Full-Stack developer"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
       </ul>
