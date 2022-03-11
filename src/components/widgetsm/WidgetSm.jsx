@@ -7,27 +7,27 @@ function WidgetSm({ data, uname, utitle }) {
       <span className="widgetSmTitle">New Join Memeber</span>
       <ul className="WidgetSmList">
         <ListItem
-          name="Fahad"
+          name="Muhammad Fahad Siddiqui"
           title="SE"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
-          name="Fahad"
+          name="Shareh Akhter"
           title="SE"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
-          name="Fahad"
+          name="Moiz Bakaseer"
           title="SE"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
-          name="Fahad"
+          name="Khubaib Zuberi"
           title="SE"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
-          name="Fahad"
+          name="Shahzaib"
           title="SE"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
