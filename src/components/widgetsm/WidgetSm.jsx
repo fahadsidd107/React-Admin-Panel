@@ -8,17 +8,17 @@ function WidgetSm({ data, uname, utitle }) {
       <ul className="WidgetSmList">
         <ListItem
           name="Muhammad Fahad Siddiqui"
-          title="SE"
+          title="Project Manager"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
           name="Shareh Akhter"
-          title="SE"
+          title="Data Engineer"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
           name="Moiz Bakaseer"
-          title="SE"
+          title="Sales Officer"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
@@ -27,7 +27,7 @@ function WidgetSm({ data, uname, utitle }) {
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
-          name="Shahzaib"
+          name="Shahzaib Ansari"
           title="SE"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
