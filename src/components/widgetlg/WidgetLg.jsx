@@ -1,9 +1,9 @@
 import React from 'react'
 import './WidgetLg.css'
-function WidgetSm() {
+function WidgetLg() {
   return (
-    <div>WidgetSm</div>
+    <div className='WidgetLg'>WidgetLg</div>
   )
 }
 
-export default WidgetSm
+export default WidgetLg
