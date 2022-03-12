@@ -7,7 +7,7 @@ function WidgetSm({ data, uname, utitle }) {
       <span className="widgetSmTitle">New Join Memeber</span>
       <ul className="WidgetSmList">
         <ListItem
-          name="Muhammad Fahad Siddiqui"
+          name="Fahad Siddiqui"
           title="Project Manager"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
@@ -23,12 +23,12 @@ function WidgetSm({ data, uname, utitle }) {
         />
         <ListItem
           name="Khubaib Zuberi"
-          title="Graphic Designer"
+          title="Designer"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
         <ListItem
           name="Shahzaib Ansari"
-          title="Full-Stack developer"
+          title="Developer"
           image="https://avatars.githubusercontent.com/u/61376412?s=400&u=bd4075255e4b63efdd5dc216a0375013fe7e0781&v=4"
         />
       </ul>
