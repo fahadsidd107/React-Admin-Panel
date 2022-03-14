@@ -4,7 +4,12 @@ import { DataGrid } from '@mui/x-data-grid';
 
 const columns = [
   { field: 'id', headerName: 'ID', width: 100 },
-  { field: 'username', headerName: 'Username', width: 160 },
+  { field: 'user', headerName: 'User', width: 160,renderCell : (params)=>{
+    return(
+    <div>
+      
+    </div>)
+  } },
   { field: 'email', headerName: 'E-mail',type:'email' , width: 160 },
   {
     field: 'status',
