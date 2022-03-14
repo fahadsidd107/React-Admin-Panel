@@ -3,7 +3,7 @@ import './UserList.css'
 import { DataGrid } from '@mui/x-data-grid';
 
 const columns = [
-  { field: 'id', headerName: 'ID', width: 70 },
+  { field: 'id', headerName: 'ID', width: 100 },
   { field: 'username', headerName: 'Username', width: 160 },
   { field: 'email', headerName: 'E-mail',type:'email' , width: 160 },
   {
