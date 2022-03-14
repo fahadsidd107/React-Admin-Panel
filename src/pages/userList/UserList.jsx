@@ -4,10 +4,11 @@ import { DataGrid } from '@mui/x-data-grid';
 
 const columns = [
   { field: 'id', headerName: 'ID', width: 100 },
-  { field: 'user', headerName: 'User', width: 160,renderCell : (params)=>{
+  { field: 'username', headerName: 'Username', width: 160,renderCell : (params)=>{
     return(
     <div>
-      <img src={params.rows.avatar} alt=''/>
+      <img src={params.row.avatar} alt=''/>
+      {params.row.username}
     </div>)
   } },
   { field: 'email', headerName: 'E-mail',type:'email' , width: 160 },
