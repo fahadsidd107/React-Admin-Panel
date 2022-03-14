@@ -6,7 +6,7 @@ const columns = [
   { field: 'id', headerName: 'ID', width: 100 },
   { field: 'username', headerName: 'Username', width: 160,renderCell : (params)=>{
     return(
-    <div>
+    <div className='userListUser'>
       <img src={params.row.avatar} alt=''/>
       {params.row.username}
     </div>)
