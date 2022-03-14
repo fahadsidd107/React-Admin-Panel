@@ -27,6 +27,14 @@ const columns = [
     // valueGetter: (params) =>
     //   `${params.row.firstName || ''} ${params.row.lastName || ''}`,
   },
+  {
+    field: '',
+    headerName: 'Transaction',
+  
+    width: 160,
+    // valueGetter: (params) =>
+    //   `${params.row.firstName || ''} ${params.row.lastName || ''}`,
+  },
 ];
 
 const rows = [
