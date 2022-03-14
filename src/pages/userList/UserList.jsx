@@ -39,7 +39,7 @@ const rows = [
 function UserList() {
   return (
     <div className='userList'>
-    <div style={{ height: 400, width: '100%' }}>
+    <div style={{ height: 450, width: '100%' }}>
       <DataGrid
         rows={rows}
         columns={columns}
