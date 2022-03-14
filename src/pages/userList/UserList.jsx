@@ -4,13 +4,13 @@ import { DataGrid } from '@mui/x-data-grid';
 
 const columns = [
   { field: 'id', headerName: 'ID', width: 70 },
-  { field: 'username', headerName: 'Username', width: 150 },
+  { field: 'username', headerName: 'Username', width: 160 },
   { field: 'email', headerName: 'E-mail',type:'email' , width: 160 },
   {
     field: 'status',
     headerName: 'Status',
     // type: 'number',
-    width: 100,
+    width: 160,
   },
   {
     field: 'transaction',
