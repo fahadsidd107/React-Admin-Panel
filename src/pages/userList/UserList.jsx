@@ -7,7 +7,7 @@ const columns = [
   { field: 'user', headerName: 'User', width: 160,renderCell : (params)=>{
     return(
     <div>
-      
+      <img src={params.rows.avatar} alt=''/>
     </div>)
   } },
   { field: 'email', headerName: 'E-mail',type:'email' , width: 160 },
