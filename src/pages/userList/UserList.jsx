@@ -1,10 +1,11 @@
 import React from 'react'
 import './UserList.css'
 import { DataGrid } from '@mui/x-data-grid';
+import {Edit,DeleteOutline} from '@material-ui/icons';
 
 const columns = [
   { field: 'id', headerName: 'ID', width: 100 },
-  { field: 'username', headerName: 'Username', width: 160,renderCell : (params)=>{
+  { field: 'username', headerName: 'Username', width: 200,renderCell : (params)=>{
     return(
     <div className='userListUser'>
       <img className='userListImg' src={params.row.avatar} alt=''/>
@@ -28,12 +29,16 @@ const columns = [
     //   `${params.row.firstName || ''} ${params.row.lastName || ''}`,
   },
   {
-    field: '',
-    headerName: 'Transaction',
-  
+    field: 'action',
+    headerName: 'Action',
     width: 160,
-    // valueGetter: (params) =>
-    //   `${params.row.firstName || ''} ${params.row.lastName || ''}`,
+    renderCell: (params) =>{
+      return(
+<div>
+<Edit className='userListEdit'/>
+<DeleteOutline className='userListDelete'/>
+</div>
+      )},
   },
 ];
 
