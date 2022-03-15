@@ -15,7 +15,9 @@ margin-right: 10px;
 }
 
 .userListEdit{
-    color: yellow;
+    color: #3bb077;
+    border-radius: 10px;
+    margin-right: 20px;
 }
 
 .userListDelete{
