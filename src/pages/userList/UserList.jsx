@@ -43,7 +43,7 @@ const columns = [
 <Link to={'/user/' + params.row.id}>
 <Edit className='userListEdit'/>
 </Link>
-<DeleteOutline className='userListDelete'/>
+<DeleteOutline className='userListDelete'  onClick={()=>{handleDelete(params.row.id)}} />
 </div>
       )},
   },
@@ -55,11 +55,15 @@ function UserList() {
 
 const [data,setData]=useState(userRows)
 
+const handleDelete=(id)=>{
+  
+}
+
   return (
     <div className='userList'>
     <div style={{ height: '100%', width: '100%' }}>
       <DataGrid
-        rows={userRows}
+        rows={data}
         disableSelectionOnClick
         columns={columns}
         pageSize={8}
