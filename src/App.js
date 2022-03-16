@@ -12,6 +12,7 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
+import User from "./pages/user/User";
 function App() {
   return (
     <Router className="App">
@@ -21,6 +22,7 @@ function App() {
         <Sidebar />
         <Routes>
         <Route path="/users" element={<UserList/>} />
+        <Route exact path="/user/:userId" element={<User />} />
         <Route exact path="/" element={<Home />} />
       </Routes>
       </div>
