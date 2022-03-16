@@ -2,7 +2,9 @@ import React from 'react'
 import './User.css'
 function User() {
   return (
-    <div>User</div>
+    <div className='user'>
+    User
+    </div>
   )
 }
 
