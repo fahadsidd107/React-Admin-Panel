@@ -1,4 +1,4 @@
-import React from 'react'
+import React,{ useState } from 'react'
 import './UserList.css'
 import { DataGrid } from '@mui/x-data-grid';
 import {Edit,DeleteOutline} from '@material-ui/icons';
@@ -52,6 +52,9 @@ const columns = [
 
 
 function UserList() {
+
+const [data,setData]=useState(userRows)
+
   return (
     <div className='userList'>
     <div style={{ height: '100%', width: '100%' }}>
