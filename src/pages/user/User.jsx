@@ -19,7 +19,9 @@ function User() {
         </div> 
           </div>
           <div className="userShowBottom">
-
+<div className="userShowTitle">
+  
+</div>
           </div>
         </div>
         <div className="userUpdate"></div>

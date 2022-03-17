@@ -52,4 +52,16 @@
     object-fit: cover;
 }
 
+.userShowTopTitle{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
 
+.userShowTopTitleName{
+font-weight: 600;
+}
+
+.userShowTopTitleJob{
+font-weight: 300;
+}
