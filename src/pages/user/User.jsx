@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./User.css";
-import {} from "@material-ui/icons";
+import { PermIdentity } from "@material-ui/icons";
 function User() {
   return (
     <div className="user">
@@ -19,9 +19,9 @@ function User() {
         </div> 
           </div>
           <div className="userShowBottom">
-<div className="userShowTitle">
-  
-</div>
+<span className="userShowTitle">Account Detail</span>
+   <PermIdentity className="userShowIcon"/>    
+<span className="userShowInfoTile">fad_flex</span>
           </div>
         </div>
         <div className="userUpdate"></div>
