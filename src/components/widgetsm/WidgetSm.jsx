@@ -4,7 +4,7 @@ import { Visibility } from "@material-ui/icons";
 function WidgetSm({ data, uname, utitle }) {
   return (
     <div className="WidgetSm">
-      <span className="widgetSmTitle">New Join Memeber</span>
+      <span className="widgetSmTitle">New Join Memebers</span>
       <ul className="WidgetSmList">
         <ListItem
           name="Fahad Siddiqui"
