@@ -4,7 +4,7 @@ function User() {
   return (
     <div className='user'>
     <div className='userTitleContainer'>
-
+User
     </div>
     </div>
   )
