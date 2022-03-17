@@ -9,9 +9,9 @@ function Chart({ title, data, userDataKey,salesDataKey, grid }) {
     <h3 className='chartTitle'>{title}</h3>
     <ResponsiveContainer width='100%' aspect={4 / 1}>
 <LineChart data={data}>
-<XAxis dataKey="name" stroke='#5550bd' />
+<XAxis dataKey="name" stroke='#5551bd' />
 <YAxis /> 
-<Line type="monotone" dataKey={salesDataKey} stroke="#5550bd" />
+<Line type="monotone" dataKey={salesDataKey} stroke="#5551bd" />
 <Line type="monotone" dataKey={userDataKey} stroke="rgb(16, 170, 124)" />
 <Legend />
 <Tooltip/>
