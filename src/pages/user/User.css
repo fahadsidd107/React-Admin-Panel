@@ -1,29 +1,42 @@
-.user{
-    flex: 4;
-    padding: 20px;
+.user {
+  flex: 4;
+  padding: 20px;
 }
-.userTitleContainer{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
-.userAddButton{
-    width: 80px;
-    border: none;
-    padding: 5px;
-    background-color: teal;
-    border-radius: 5px;
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-}
-.userContainer{
-    display: flex;
+.userTitleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
-.userShow{
-    flex: 1;
-    padding: 20px;
-    
+.userAddButton {
+  width: 80px;
+  border: none;
+  padding: 5px;
+  background-color: teal;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+.userContainer {
+  display: flex;
+  margin-top: 20px;
+}
+
+.userShow {
+  flex: 1;
+  padding: 20px;
+  box-shadow: 8px 6px 23px -6px rgba(140, 125, 125, 0.88);
+  -webkit-box-shadow: 8px 6px 23px -6px rgba(140, 125, 125, 0.88);
+  -moz-box-shadow: 8px 6px 23px -6px rgba(140, 125, 125, 0.88);
+  border-radius: 10px;
+}
+.userUpdate {
+  flex: 2;
+  padding: 20px;
+  box-shadow: 8px 6px 23px -6px rgba(140, 125, 125, 0.88);
+  -webkit-box-shadow: 8px 6px 23px -6px rgba(140, 125, 125, 0.88);
+  -moz-box-shadow: 8px 6px 23px -6px rgba(140, 125, 125, 0.88);
+  margin-left: 20px;
+  border-radius: 10px;
 }
