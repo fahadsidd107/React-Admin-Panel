@@ -43,7 +43,12 @@ function User() {
    </div>
           </div>
         </div>
-        <div className="userUpdate"></div>
+        <div className="userUpdate">
+          <span className="userUpdateTitle">Edit</span>
+        <form className="userUpdateForm">
+
+        </form>
+        </div>
       </div>
     </div>
   );
