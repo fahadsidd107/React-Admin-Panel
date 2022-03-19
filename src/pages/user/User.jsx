@@ -47,10 +47,13 @@ function User() {
           <span className="userUpdateTitle">Edit</span>
         <form className="userUpdateForm">
 <div className="userUpdateLeft">
-
+<div className="userupdateItem">
+  <label>Username</label>
+  <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
+</div>
 </div>
 <div className="userUpdateRight">
-  
+Right
 </div>
         </form>
         </div>
