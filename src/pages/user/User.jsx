@@ -51,6 +51,26 @@ function User() {
   <label>Username</label>
   <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
 </div>
+
+<div className="userupdateItem">
+  <label>Username</label>
+  <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
+</div>
+
+<div className="userupdateItem">
+  <label>Username</label>
+  <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
+</div>
+
+<div className="userupdateItem">
+  <label>Username</label>
+  <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
+</div>
+
+<div className="userupdateItem">
+  <label>Username</label>
+  <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
+</div>
 </div>
 <div className="userUpdateRight">
 Right
