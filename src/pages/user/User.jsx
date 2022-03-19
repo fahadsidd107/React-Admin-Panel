@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./User.css";
-import { PermIdentity } from "@material-ui/icons";
+import { CalendarToday, LocationSearching, MailOutline, PermIdentity, PhoneAndroid } from "@material-ui/icons";
 function User() {
   return (
     <div className="user">
@@ -20,8 +20,27 @@ function User() {
           </div>
           <div className="userShowBottom">
 <span className="userShowTitle">Account Detail</span>
+   <div className="userShowInfoContainer">
    <PermIdentity className="userShowIcon"/>    
-<span className="userShowInfoTile">fad_flex</span>
+<span className="userShowInfoTitle">fad_flex</span>
+   </div>
+   <div className="userShowInfoContainer">
+   <CalendarToday className="userShowIcon"/>    
+<span className="userShowInfoTitle">10.12.1998</span>
+   </div>
+   <span className="userShowTitle">Contact Detail</span>
+   <div className="userShowInfoContainer">
+   <PhoneAndroid className="userShowIcon"/>    
+<span className="userShowInfoTitle">+92 321 3730963</span>
+   </div>
+   <div className="userShowInfoContainer">
+   <MailOutline className="userShowIcon"/>    
+<span className="userShowInfoTitle">fsiddiqui107@gmail.com</span>
+   </div>
+   <div className="userShowInfoContainer">
+   <LocationSearching className="userShowIcon"/>    
+<span className="userShowInfoTitle">House 12/12 B-Area,Karachi</span>
+   </div>
           </div>
         </div>
         <div className="userUpdate"></div>
