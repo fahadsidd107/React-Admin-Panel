@@ -66,4 +66,25 @@ font-weight: 600;
 font-weight: 300;
 }
 
-.userShowIcon{}
+.userShowBottom{
+    margin-top: 20px;
+}
+.userShowTitle{
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(177, 176, 176);
+}
+
+.userShowInfoContainer{
+ display: flex;
+ align-items: center;
+ margin: 20px 0px;
+ color: #444;
+}
+
+.userShowIcon{
+    font-size: 16px !important;
+}
+.userShowInfoTitle{
+    margin-left: 10px;
+}
