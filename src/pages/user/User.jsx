@@ -46,7 +46,12 @@ function User() {
         <div className="userUpdate">
           <span className="userUpdateTitle">Edit</span>
         <form className="userUpdateForm">
+<div className="userUpdateLeft">
 
+</div>
+<div className="userUpdateRight">
+  
+</div>
         </form>
         </div>
       </div>
