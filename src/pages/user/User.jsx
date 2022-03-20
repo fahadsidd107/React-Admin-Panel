@@ -58,7 +58,7 @@ function User() {
 </div>
 
 <div className="userupdateItem">
-  <label>Contact #</label>
+  <label>Contact no.</label>
   <input type='text' placeholder='+92 321 3730963' className="userUpdateInput"/>
 </div>
 
