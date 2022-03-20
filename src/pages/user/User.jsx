@@ -76,7 +76,7 @@ function User() {
 <div className="userUpdateUpload">
   <img src='https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341' alt="" className="userUpdateImage"/>
 <label htmlFor="file"><Publish/></label>
-<input type='file' id="file"/>
+<input type='file' id="file" style={{display:'none'}}/>
 </div>
 </div>
         </form>
