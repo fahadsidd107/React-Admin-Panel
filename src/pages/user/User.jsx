@@ -68,7 +68,7 @@ function User() {
 </div>
 
 <div className="userupdateItem">
-  <label>Username</label>
+  <label>Address</label>
   <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
 </div>
 </div>
