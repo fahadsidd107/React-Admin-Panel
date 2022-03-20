@@ -89,15 +89,30 @@ font-weight: 300;
     margin-left: 10px;
 }
 
-.userUpdateTitle{}
+.userUpdateTitle{
+  font-size: 24px;
+  font-weight: 600;
+}
 .userUpdateForm{
   display: flex;
   justify-content: space-between;
   margin-top: 20px;
 }
 .userUpdateLeft{}
-.userupdateItem{}
-.userUpdateInput{}
+.userupdateItem{
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.userupdateItem>label{
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+.userUpdateInput{
+  border: none;
+  width: 250px;
+  border-bottom: 1px solid gray;
+}
 .userUpdateRight{}
 .userUpdateUpload{}
 .userUpdateImage{
