@@ -73,7 +73,9 @@ function User() {
 </div>
 </div>
 <div className="userUpdateRight">
-Right
+<div className="userUpdateUpload">
+  <img src='' alt=""/>
+</div>
 </div>
         </form>
         </div>
