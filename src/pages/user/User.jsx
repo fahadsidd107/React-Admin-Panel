@@ -53,13 +53,13 @@ function User() {
 </div>
 
 <div className="userupdateItem">
-  <label>Username</label>
-  <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
+  <label>Date of birth</label>
+  <input type='text' placeholder='10.12.1998' className="userUpdateInput"/>
 </div>
 
 <div className="userupdateItem">
-  <label>Date of birth</label>
-  <input type='text' placeholder='10.12.1998' className="userUpdateInput"/>
+  <label>Contact #</label>
+  <input type='text' placeholder='+92 321 3730963' className="userUpdateInput"/>
 </div>
 
 <div className="userupdateItem">
