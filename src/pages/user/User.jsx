@@ -59,7 +59,7 @@ function User() {
 
 <div className="userupdateItem">
   <label>Date of birth</label>
-  <input type='text' placeholder='fad_flex' className="userUpdateInput"/>
+  <input type='text' placeholder='10.12.1998' className="userUpdateInput"/>
 </div>
 
 <div className="userupdateItem">
