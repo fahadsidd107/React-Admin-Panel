@@ -3,7 +3,9 @@ import './NewUser.css'
 
 function NewUser() {
   return (
-    <div className='newUser'>NewUser</div>
+    <div className='newUser'>
+        <h1 className='newUserTitle'>New User</h1>
+    </div>
   )
 }
 
