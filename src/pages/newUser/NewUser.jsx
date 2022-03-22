@@ -12,6 +12,7 @@ function NewUser() {
 <Form type='password' label='Password' placeholder='password'/>
 <Form type='text' label='Phone' placeholder='+92 323 3456123'/>
 <Form type='text' label='Address' placeholder='A Area Karachi'/>
+<div className='newUserItem'>
 <label>Gender</label>
 <div className='newUserGender'>
 <input type='radio' name='gender' id='male' value='male'/>
@@ -20,6 +21,7 @@ function NewUser() {
 <label for='female'>Female</label>
 <input type='radio' name='gender' id='other' value='other'/>
 <label for='other'>Other</label>
+</div>
 </div>
 
         </form>
