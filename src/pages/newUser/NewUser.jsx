@@ -30,7 +30,8 @@ function NewUser() {
 <option value='no'>No</option>
 </select>
 </div>
-        </form>
+ </form>
+<button className='newUserButton'>Create</button>
     </div>
   )
 }
