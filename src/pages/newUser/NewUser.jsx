@@ -23,7 +23,13 @@ function NewUser() {
 <label for='other'>Other</label>
 </div>
 </div>
-
+<div className='newUserItem'>
+<label>Active</label>
+<select className='newUserSelect' id='active'> 
+<option value='yes'>Yes</option>
+<option value='no'>No</option>
+</select>
+</div>
         </form>
     </div>
   )
