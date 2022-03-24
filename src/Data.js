@@ -88,14 +88,14 @@ export const userAndSalesData = [
 
 
   export const productRows = [
-    { id: 1, name: 'Iphone',avatar:"https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341", email: 'Jon@gmail.com', status: 'Active', transaction: 'Rs.1,000' },
-    { id: 2, name: 'Earpods',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Cersei@gmail.com', status: 'Active', transaction: 'Rs.2,000' },
-    { id: 3, name: 'Jaime Lannister',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Jaime@gmail.com', status: 'Active' , transaction: 'Rs.3,000' },
-    { id: 4, name: 'Arya Stark',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Arya@gmail.com', status: 'Active' , transaction: 'Rs.4,000' },
-    { id: 5, name: 'Daenerys Targaryen',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Daenerys@gmail.com', status: 'Active' , transaction: 'Rs.5,000' },
-    { id: 6, name: 'Melisandre',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Melisandre@gmail.com', status: 'Active' , transaction: 'Rs.6,000' },
-    { id: 7, name: 'Ferrara Clifford',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Ferrara@gmail.com', status: 'Active' , transaction: 'Rs.7,000' },
-    { id: 8, name: 'Rossini Frances',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Rossini@gmail.com', status: 'Active', transaction: 'Rs.8,000' },
-    { id: 9, name: 'Harvey Roxie',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Harvey@gmail.com', status: 'Active', transaction: 'Rs.9,000' },
-    { id: 10, name: 'Harvey Roxie',avatar:'https://pps.whatsapp.net/v/t61.24694-24/234743491_372249084383775_7612602405731643070_n.jpg?ccb=11-4&oh=f06c30ab5033f0dc3b612a1260fa8efd&oe=62353341', email: 'Harvey@gmail.com', status: 'Active', transaction: 'Rs.9,000' },
+    { id: 1, name: 'Iphone',avatar:"https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", email: 'Jon@gmail.com', status: 'Active', transaction: 'Rs.1,000' },
+    { id: 2, name: 'Earpods',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Cersei@gmail.com', status: 'Active', transaction: 'Rs.2,000' },
+    { id: 3, name: 'Jaime Lannister',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Jaime@gmail.com', status: 'Active' , transaction: 'Rs.3,000' },
+    { id: 4, name: 'Arya Stark',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Arya@gmail.com', status: 'Active' , transaction: 'Rs.4,000' },
+    { id: 5, name: 'Daenerys Targaryen',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Daenerys@gmail.com', status: 'Active' , transaction: 'Rs.5,000' },
+    { id: 6, name: 'Melisandre',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Melisandre@gmail.com', status: 'Active' , transaction: 'Rs.6,000' },
+    { id: 7, name: 'Ferrara Clifford',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Ferrara@gmail.com', status: 'Active' , transaction: 'Rs.7,000' },
+    { id: 8, name: 'Rossini Frances',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Rossini@gmail.com', status: 'Active', transaction: 'Rs.8,000' },
+    { id: 9, name: 'Harvey Roxie',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Harvey@gmail.com', status: 'Active', transaction: 'Rs.9,000' },
+    { id: 10, name: 'Harvey Roxie',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', email: 'Harvey@gmail.com', status: 'Active', transaction: 'Rs.9,000' },
   ];
