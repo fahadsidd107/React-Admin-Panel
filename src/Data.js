@@ -88,14 +88,14 @@ export const userAndSalesData = [
 
 
   export const productRows = [
-    { id: 1, name: 'Iphone',avatar:"https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 'Jon@gmail.com', status: 'Active', transaction: 'Rs.1,000' },
-    { id: 2, name: 'Earpods',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Cersei@gmail.com', status: 'Active', transaction: 'Rs.2,000' },
-    { id: 3, name: 'Jaime Lannister',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Jaime@gmail.com', status: 'Active' , transaction: 'Rs.3,000' },
-    { id: 4, name: 'Arya Stark',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Arya@gmail.com', status: 'Active' , transaction: 'Rs.4,000' },
-    { id: 5, name: 'Daenerys Targaryen',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Daenerys@gmail.com', status: 'Active' , transaction: 'Rs.5,000' },
-    { id: 6, name: 'Melisandre',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Melisandre@gmail.com', status: 'Active' , transaction: 'Rs.6,000' },
-    { id: 7, name: 'Ferrara Clifford',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Ferrara@gmail.com', status: 'Active' , transaction: 'Rs.7,000' },
-    { id: 8, name: 'Rossini Frances',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Rossini@gmail.com', status: 'Active', transaction: 'Rs.8,000' },
-    { id: 9, name: 'Harvey Roxie',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Harvey@gmail.com', status: 'Active', transaction: 'Rs.9,000' },
-    { id: 10, name: 'Harvey Roxie',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Harvey@gmail.com', status: 'Active', transaction: 'Rs.9,000' },
+    { id: 1, name: 'Iphone',avatar:"https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 'Jon@gmail.com', status: 'Active', price: 'Rs.1,000' },
+    { id: 2, name: 'Earpods',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Cersei@gmail.com', status: 'Active', price: 'Rs.2,000' },
+    { id: 3, name: 'Jaime Lannister',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Jaime@gmail.com', status: 'Active' , price: 'Rs.3,000' },
+    { id: 4, name: 'Arya Stark',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Arya@gmail.com', status: 'Active' , price: 'Rs.4,000' },
+    { id: 5, name: 'Daenerys Targaryen',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Daenerys@gmail.com', status: 'Active' , price: 'Rs.5,000' },
+    { id: 6, name: 'Melisandre',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Melisandre@gmail.com', status: 'Active' , price: 'Rs.6,000' },
+    { id: 7, name: 'Ferrara Clifford',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Ferrara@gmail.com', status: 'Active' , price: 'Rs.7,000' },
+    { id: 8, name: 'Rossini Frances',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Rossini@gmail.com', status: 'Active', price: 'Rs.8,000' },
+    { id: 9, name: 'Harvey Roxie',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Harvey@gmail.com', status: 'Active', price: 'Rs.9,000' },
+    { id: 10, name: 'Harvey Roxie',avatar:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Harvey@gmail.com', status: 'Active', price: 'Rs.9,000' },
   ];
