@@ -6,6 +6,11 @@ import { Link } from "react-router-dom";
 import './ProductList.css'
 function ProductList() {
   const [data, setData] = useState(productRows);
+
+  const handleDelete = (id) => {
+    setData(data.filter((item) => item.id !== id));
+  };
+  
   return (
     <div className='productList'>
             <DataGrid
