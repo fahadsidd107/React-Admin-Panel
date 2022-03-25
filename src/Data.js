@@ -88,14 +88,14 @@ export const userAndSalesData = [
 
 
   export const productRows = [
-    { id: 1, name: 'Iphone',img:"https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: 'Jon@gmail.com', status: 'Active', price: 'Rs.1,000' },
-    { id: 2, name: 'Earpods',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Cersei@gmail.com', status: 'Active', price: 'Rs.2,000' },
-    { id: 3, name: 'Jaime Lannister',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Jaime@gmail.com', status: 'Active' , price: 'Rs.3,000' },
-    { id: 4, name: 'Arya Stark',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Arya@gmail.com', status: 'Active' , price: 'Rs.4,000' },
-    { id: 5, name: 'Daenerys Targaryen',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Daenerys@gmail.com', status: 'Active' , price: 'Rs.5,000' },
-    { id: 6, name: 'Melisandre',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Melisandre@gmail.com', status: 'Active' , price: 'Rs.6,000' },
-    { id: 7, name: 'Ferrara Clifford',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Ferrara@gmail.com', status: 'Active' , price: 'Rs.7,000' },
-    { id: 8, name: 'Rossini Frances',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Rossini@gmail.com', status: 'Active', price: 'Rs.8,000' },
-    { id: 9, name: 'Harvey Roxie',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Harvey@gmail.com', status: 'Active', price: 'Rs.9,000' },
-    { id: 10, name: 'Harvey Roxie',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: 'Harvey@gmail.com', status: 'Active', price: 'Rs.9,000' },
+    { id: 1, name: 'Iphone',img:"https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500", stock: '120', status: 'Active', price: 'Rs.1,000' },
+    { id: 2, name: 'Earpods',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '100', status: 'Active', price: 'Rs.2,000' },
+    { id: 3, name: 'Mac Book',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '10', status: 'Active' , price: 'Rs.3,000' },
+    { id: 4, name: 'Infinix Hot 8',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '50', status: 'Active' , price: 'Rs.4,000' },
+    { id: 5, name: 'C-type Charger',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '0', status: 'Active' , price: 'Rs.5,000' },
+    { id: 6, name: 'Audionic Speaker',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '17', status: 'Active' , price: 'Rs.6,000' },
+    { id: 7, name: 'Laptop Bag',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '39', status: 'Active' , price: 'Rs.7,000' },
+    { id: 8, name: 'Core i5 PC',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '99', status: 'Active', price: 'Rs.8,000' },
+    { id: 9, name: '8GB USB',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '54', status: 'Active', price: 'Rs.9,000' },
+    { id: 10, name: 'Smart Watch',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '0', status: 'Active', price: 'Rs.9,000' },
   ];
