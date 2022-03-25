@@ -12,3 +12,12 @@ align-items: center;
     object-fit: cover;
     margin-right: 10px;
 }
+.productListEdit{
+    color: #3bb077;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.productListDelete{
+ color: red;
+}
