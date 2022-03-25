@@ -1,6 +1,10 @@
 .productList{
 flex: 4;
 }
+.productListUser{
+    display: flex;
+align-items: center;
+}
 .productListImg{
     width: 32px;
     height: 32px;
