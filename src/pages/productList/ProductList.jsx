@@ -54,7 +54,10 @@ function ProductList() {
             </Link>
             <DeleteOutline
               className="productListDelete"
-              onClick={() => handleDelete(params.row.id)}
+              onClick={() =>{
+              handleDelete(params.row.id)
+              alert(`Item with ${params.row.id} has been deleted.`)}
+              }
             />
           </div>
         );
