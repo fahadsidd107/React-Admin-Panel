@@ -56,7 +56,7 @@ function ProductList() {
               className="productListDelete"
               onClick={() =>{
               handleDelete(params.row.id)
-              alert(`Item with ${params.row.id} has been deleted.`)}
+              alert(`Item with ID: ${params.row.id} has been deleted.`)}
               }
             />
           </div>
