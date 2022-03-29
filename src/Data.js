@@ -99,3 +99,19 @@ export const userAndSalesData = [
     { id: 9, name: '8GB USB',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '54', status: 'Active', price: 'Rs.9,000' },
     { id: 10, name: 'Smart Watch',img:'https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500', stock: '0', status: 'Active', price: 'Rs.9,000' },
   ];
+
+
+  export const productData = [
+    {
+      name: "Jan",
+      "Sales": 4000,
+    },
+    {
+      name: "Feb",
+      "Sales": 3000,
+    },
+    {
+      name: "Mar",
+      "Sales": 5000,
+    },
+  ];
