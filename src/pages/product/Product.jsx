@@ -43,7 +43,24 @@ function Product() {
                   </div>
               </div>
           </div>
-      </div>       
+      </div>  
+      <div className="productBottom">
+          <form className="productForm">
+              <div className="productFormLeft">
+                  <label>Product Name</label>
+                  <input type="text" placeholder="Apple AirPod" />
+                  <label>In Stock</label>
+                  <select name="inStock" id="idStock">
+                      <option value="yes">Yes</option>
+                      <option value="no">No</option>
+                  </select>
+                  <label>Active</label>
+                  <select name="active" id="active">
+                      <option value="yes">Yes</option>
+                      <option value="no">No</option>
+                  </select>
+              </div>
+                   
     </div>
   )
 }
