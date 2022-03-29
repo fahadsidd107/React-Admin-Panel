@@ -45,3 +45,21 @@
     display: flex;
     align-items: center;
   }
+  .productName {
+    font-weight: 600;
+  }
+  
+  .productInfoBottom {
+    margin-top: 10px;
+  }
+  
+  .productInfoItem {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .productInfoValue {
+    font-weight: 300;
+  }
+  
