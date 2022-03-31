@@ -9,6 +9,10 @@ function NewProduct() {
           <label>Image</label>
           <input type="file" id="file" />
         </div>
+        <div className="addProductItem">
+          <label>Name</label>
+          <input type="text" placeholder="Apple Airpods" />
+        </div>
         
         </form>
     </div>
