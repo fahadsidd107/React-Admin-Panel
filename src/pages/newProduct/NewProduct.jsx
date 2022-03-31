@@ -13,6 +13,10 @@ function NewProduct() {
           <label>Name</label>
           <input type="text" placeholder="Apple Airpods" />
         </div>
+        <div className="addProductItem">
+          <label>Stock</label>
+          <input type="text" placeholder="123" />
+        </div>
         
         </form>
     </div>
