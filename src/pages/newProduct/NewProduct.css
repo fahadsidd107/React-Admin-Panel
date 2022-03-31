@@ -20,3 +20,7 @@
   .addProductItem > input {
     padding: 10px;
   }
+
+  .addProductItem > select {
+    padding: 10px;
+  }
