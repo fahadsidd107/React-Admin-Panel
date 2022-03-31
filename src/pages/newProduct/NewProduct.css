@@ -16,4 +16,7 @@
     font-weight: 600;
     margin-bottom: 10px;
   }
-  
+
+  .addProductItem > input {
+    padding: 10px;
+  }
