@@ -3,7 +3,14 @@ import './NewProduct.css'
 function NewProduct() {
   return (
     <div className='newProduct'>
-    NewProduct
+    <h1 className="addProductTitle">New Product</h1>
+    <form className="addProductForm">
+        <div className="addProductItem">
+          <label>Image</label>
+          <input type="file" id="file" />
+        </div>
+        
+        </form>
     </div>
   )
 }
